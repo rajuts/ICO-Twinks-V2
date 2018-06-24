@@ -14,12 +14,12 @@
     "security",
     "zeppelin"
   ],
-  "author": "Toshendra sharma <me@toshendra.com>",
+  "author": "Raju S Tharimana <rajuts@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toshendra/ethereum-erc20-token/issues"
+    "url": "https://github.com/rajuts/issues"
   },
-  "homepage": "https://github.com/toshendra/ethereum-erc20-token",
+  "homepage": "https://github.com/rajutsn",
   "dependencies": {
     "truffle-hdwallet-provider": "0.0.3"
   },

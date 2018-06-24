@@ -1,7 +1,6 @@
 # Crowdsale project
 
 
-Learn how to Build a Crowd Sale (ICO) App in Ethereum Blockchain. Find the entire course [here](https://www.toshacademy.com/courses/take/how-to-build-a-crowd-sale-ico-app-in-ethereum-blockchain/lessons/1348825-introduction-to-course) by Toshendra Sharma 
 
 ## Getting Started
 
@@ -41,7 +40,7 @@ Truffle is a development environment, testing framework and asset pipeline for E
 If you're using OS X or Windows, the best way to install Node.js is to use one of the installers from the Node.js download page.If you're     using Linux, you can use the installer, or you can check NodeSource's binary distributions to see whether or not there's a more recent version that works with your system.
 
 ```
-$ sudo apt-get install nodejs 
+$ sudo apt-get install nodejs
 ```
 Test: Run node -v. To check the version the of installed nodejs.
 
@@ -82,4 +81,4 @@ Be sure you're connected to an ethereum client before running these commands. If
 
 ## Authors
 
-* [**Toshendra Sharma**](https://www.udemy.com/user/toshendrasharma2/)  - Founder & CEO @ RecordsKeeper, Toshacademy, Toshblocks
+* [**Raju S Tharimana**](https://www.linkedin.com/in/raju-s-tharimana-72ab448/)
